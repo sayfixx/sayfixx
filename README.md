@@ -1,6 +1,12 @@
+<p align="center">
+  <a href="https://discord.com/users/891257216135475200">
+    <img src="https://lanyard.kyrie25.dev/api/891257216135475200?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true">
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cr3ved) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sh2tt) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+<p align="center">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&animation=spin&svgfill=68217A">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&animation=spin&svgfill=777BB4">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=3776AB">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&animation=spin&svgfill=00ADD8">
+</p>
