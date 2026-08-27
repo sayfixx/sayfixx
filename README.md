@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.com/users/891257216135475200">
-    <img src="https://lanyard.kyrie25.dev/api/891257216135475200?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true">
+    <img src="https://lanyard.cnrad.dev/api/891257216135475200?theme=dark&bg=1a1a1a&animated=true&borderRadius=20px&idleMessage=Currently%20offline" />
   </a>
 </p>
 
