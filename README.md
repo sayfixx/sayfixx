@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=953DAC">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=ED8B00">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=00ADD8">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Java&svgfill=ED8B00">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PHP&svgfill=777BB4">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=3776AB">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Go&svgfill=00ADD8">
 </p>
 
