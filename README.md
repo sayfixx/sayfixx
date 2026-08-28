@@ -7,11 +7,11 @@
 
   </h1>
   <p>
-    <a href="https://github.com/RaoHai">
-      <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
+    <a href="https://github.com/sayfixx">
+      <img src="https://img.shields.io/github/followers/sayfixx?label=Follow&style=social" />
     </a>
-    <a href="https://github.com/RaoHai">
-      <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
+    <a href="https://github.com/sayfixx">
+      <img src="https://komarev.com/ghpvc/?username=sayfixx&color=brightgreen" />
     </a>
   </p>
 </div>
