@@ -1,12 +1,14 @@
 <p align="center">
   <a href="https://discord.com/users/891257216135475200">
-    <img src="https://lanyard.cnrad.dev/api/891257216135475200?theme=light&bg=953DAC&animated=true&borderRadius=20px" />
+    <img src="https://lanyard.cnrad.dev/api/891257216135475200?theme=dark&bg=000000&animated=true&borderRadius=20px" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=953DAC">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=ED8B00">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=00ADD8">
 </p>
+
