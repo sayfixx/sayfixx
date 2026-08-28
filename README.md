@@ -4,17 +4,14 @@
   </a>
 </p>
 
-
-  </h1>
-  <p>
-    <a href="https://github.com/sayfixx">
-      <img src="https://img.shields.io/github/followers/sayfixx?label=Follow&style=social" />
-    </a>
-    <a href="https://github.com/sayfixx">
-      <img src="https://komarev.com/ghpvc/?username=sayfixx&color=brightgreen" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/sayfixx">
+    <img src="https://img.shields.io/github/followers/sayfixx?label=Follow&style=social" />
+  </a>
+  <a href="https://github.com/sayfixx">
+    <img src="https://komarev.com/ghpvc/?username=sayfixx&color=brightgreen" />
+  </a>
+</p>
 
 ---
 
@@ -25,4 +22,3 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=3776AB">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Go&svgfill=00ADD8">
 </p>
-
